@@ -25,7 +25,7 @@ Type                  : ServicePrincipal
 * Name  : storage_account
 
 + **Key   : client_secret**
-+ Value : 27J&hde@vg
++ Value : 
 + Name  : client_secret
 
 + **Key   : SubscriptionID**
